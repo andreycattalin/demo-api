@@ -1,0 +1,21 @@
+{
+    "name": "music-api",
+    "version": "1.0.0",
+    "description": "Proyecto api de musica",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^8.0.0",
+        "express": "^4.17.1",
+        "moment": "^2.24.0",
+        "mongoose": "^5.6.9"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:andreycattalin/music-api-low.git"
+    },
+    "license": "ISC"
+}
